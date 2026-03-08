@@ -8,7 +8,7 @@ Program Constants: Single floor travel time: 10
 
 Assumptions:
 Assumed that no repeat floors in the floor list for the elevator. 
-Not optimized for efficenty so it will sometimes skip floors due to order in list. 
+Not optimized for efficency so it will sometimes skip floors due to order in list. 
 
 
 Future Implementations:
